@@ -101,7 +101,7 @@ NMAP HTTP Libraries: https://nmap.org/nsedoc/lib/http.html
 - Git Digger
 - nmap --script=http-enum
 
-Use directory list and RAFT lists: https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web_Content
+Use directory list and RAFT lists: https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content
 
 ### Identify Platforms
 - Wapplyzer (Chrome)
